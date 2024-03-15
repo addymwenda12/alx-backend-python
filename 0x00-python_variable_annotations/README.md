@@ -28,9 +28,4 @@ $ python3 0-main.py
 
 This will print the result of the.py
 
-Edit
-Full Screen
-Copy code
 This will print the result of the tests for the tests `add` function.
-
-The repository for this project is [ for the `add` function.al.
