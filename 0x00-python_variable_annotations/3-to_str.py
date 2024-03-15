@@ -12,4 +12,4 @@ def to_str(n: float) -> str:
     :param n: The float number.
     :return: The string representation of the given float number
     """
-    return (to_str(n))
+    return (str(n))
