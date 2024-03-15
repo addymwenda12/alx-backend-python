@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-from math import floor as math_floor
 """
 Function that takes a float n as argument and returns the floor of the float
 """
+from math import floor as math_floor
 
 
 def floor(n: float) -> int:
